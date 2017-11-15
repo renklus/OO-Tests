@@ -11,5 +11,6 @@ public class Main {
         new TestClass().MethodNr(1.0, 2.0);
         new TestClass().MethodNr(1.0, 2);
         new TestClass().MethodNr(1, 2);
+
     }
 }
